@@ -1,13 +1,5 @@
 # Browser Auth-State Synchronizer (`auth-synchronizer`)
 
-![GitHub License](https://img.shields.io/github/license/sohan-a11y/auth-synchronizer?style=flat-square)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/sohan-a11y/auth-synchronizer?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/sohan-a11y/auth-synchronizer?style=flat-square)
-![GitHub Forks](https://img.shields.io/github/forks/sohan-a11y/auth-synchronizer?style=flat-square)
-
-[![Skills](https://skillicons.dev/icons?i=python,js,chrome,fastapi)](https://skillicons.dev)
-
-
 Export authenticated browser sessions (cookies, `localStorage`, `sessionStorage`) from your human desktop browser via a Manifest V3 extension, encrypt them into a local FastAPI vault, and seamlessly inject them into headless Playwright scripts.
 
 ## Setup & Usage
